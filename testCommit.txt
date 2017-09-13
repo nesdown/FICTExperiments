@@ -1,1 +1,1 @@
-This is just a texxt file to play around with commits, pushes, branches and repositories.
+This is just a text file to play around with commits, pushes, branches and repositories.
