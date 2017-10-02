@@ -44,7 +44,7 @@ encLength = inp.length;
 //with equal length of letters to encode
 let i;
 for (i = 0; i < encLength; i++) {
-	encArray[i] = randSymbol();
+  encArray[i] = randSymbol();
 }
 
 //generate output
